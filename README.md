@@ -1,5 +1,5 @@
 # Awesome early startup cloud services
-Awesome lists about all kinds of cloud service providers focus on dX and uX
+Awesome lists about all kinds of cloud service providers focus on dX, uX and cheap price 
 
 Hot trend now: :fire: Total free: :moneybag: Free 80%: :money_with_wings: Familiar with dev: :computer:
 
